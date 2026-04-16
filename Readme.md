@@ -26,10 +26,10 @@ This project is part of my web development learning journey and focuses on struc
 ## Project Structure
 
 
-Birthday_invite_project_basic_web_dev/
-│── index.html
-│── images/
-│── README.md
+**Birthday_invite_project_basic_web_dev/**
+* │── index.html
+* │── images/
+* │── README.md
 
 
 ## Preview
